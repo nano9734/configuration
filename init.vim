@@ -55,4 +55,3 @@ vnoremap <S-Down> 4j
 " Highlight Groups and Their Colors
 highlight EndOfBuffer ctermfg=21
 highlight Visual ctermfg=8 ctermbg=1
-highlight VisualNOS ctermfg=8 ctermbg=1
